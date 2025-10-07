@@ -25,7 +25,8 @@ Execute the program using runserver command.
 
 ## PROGRAM
 ```
-<html>
+
+<hTml>
     <head>
         <title>WEB EX3</title>
     </head>
@@ -108,10 +109,10 @@ Execute the program using runserver command.
         </table>
     </body>
 </html>
+
 ```
 
 ## OUTPUT
-![alt text](<WhatsApp Image 2025-10-07 at 20.00.36_f3c64710.jpg>)
-
+![alt text](Screenshot_7-10-2025_225959_127.0.0.1.jpeg)
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
