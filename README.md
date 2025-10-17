@@ -113,6 +113,10 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![alt text](Screenshot_7-10-2025_225959_127.0.0.1.jpeg)
+<img width="1920" height="1020" alt="WEB EX3 and 1 more page - Personal - Microsoft​ Edge 17-10-2025 23_05_35" src="https://github.com/user-attachments/assets/c497d5e8-ca70-4928-bb08-994a1d39334b" />
+<img width="1920" height="1020" alt="Welcome - Visual Studio Code 17-10-2025 23_06_30" src="https://github.com/user-attachments/assets/51017fc7-2739-4b1a-adda-6c67a1244ca9" />
+
+
+
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
